@@ -1,5 +1,7 @@
 This code consists of three R files,three Python files and three data files
+
 First, you need run three R code files in Rstudio, then three Python code files, with data files loaded in between as needed. The code functions of each file are as follows:
+
 1.download_pro.R   
 	The main function is to download SNP data of GSE28127 from GEO
 	
